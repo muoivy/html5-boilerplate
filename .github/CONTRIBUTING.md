@@ -1,7 +1,7 @@
 # Contributing to HTML5 Boilerplate
 
 ♥ [HTML5 Boilerplate](https://html5boilerplate.com/) and want to get involved?
-Thanks! We're actively looking for folks interested in helping out and there 
+Thanks! We're actively looking for folks interested in helping out and there
 are plenty of ways you can help!
 
 Please take a moment to review this document in order to make the contribution
@@ -28,7 +28,6 @@ restrictions:
 
 * Please **do not** open issues or pull requests regarding the code in
   [`.htaccess`](https://github.com/h5bp/server-configs-apache),
-  [`jQuery`](https://github.com/jquery/jquery/),
   [`Modernizr`](https://github.com/Modernizr/Modernizr) or
   [`Normalize.css`](https://github.com/necolas/normalize.css) (open them in
   their respective repositories).
